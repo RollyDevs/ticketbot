@@ -1,0 +1,26 @@
+{
+  "name": "ticket",
+  "version": "1.0.0",
+  "description": "RollyDevs tarafından Winarez Youtube İçin Kodlandı",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RollyDevs/ticketbot.git"
+  },
+  "keywords": [
+    "ticketbot",
+    "winarez",
+    "rollydevs",
+    "rolly",
+    "roffly"
+  ],
+  "author": "Roffly, Rollydevs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RollyDevs/ticketbot/issues"
+  },
+  "homepage": "https://github.com/RollyDevs/ticketbot#readme"
+}
