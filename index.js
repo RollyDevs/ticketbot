@@ -1,6 +1,6 @@
 //https://github.com/RollyDevs
 //.env dosyasına tokeninizi yazın
-var ticketkanalid = "817864005007573052";//yazmazsanız çalışmaz
+var ticketkanalid = "ticketkanalidyazın";//yazmazsanız çalışmaz
 var yetkiliid = "yetkiliidyazın";//yazmazsanız çalışmaz
 
 
