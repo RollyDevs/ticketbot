@@ -2,5 +2,7 @@
 
 ## Coded By Roffly 
 
-## Basit Bir TicketBot Dur
+## Basit Bir TicketBotdur
+
+### Çalınırsa Telif Atılır
 
